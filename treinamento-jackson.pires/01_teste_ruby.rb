@@ -1,0 +1,1 @@
+puts "curso ruby 5.x"
